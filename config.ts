@@ -1,7 +1,7 @@
 export default {
   key: {
     // UptimeRobot API Key
-    uptimerobot: 'ur1047124-c17f135f8eab023bb4b6987b',
+    uptimerobot: '',
   },
   page: {
     // Website Settings
