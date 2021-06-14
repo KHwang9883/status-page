@@ -42,7 +42,7 @@ export default {
         },
         {
           name: 'UptimeRobot',
-          url: 'https://uptimerobot.com',
+          url: 'https://stats.uptimerobot.com/Zp7JwiMqY1',
         },
       ],
     },
